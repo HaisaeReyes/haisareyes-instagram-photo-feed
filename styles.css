@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(236, 230, 230);
+    padding: 0%;
+    margin: 0%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#divH2{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+}
+
+#divH2 h2{
+   align-items: center;
+   text-align: left;
+   vertical-align: middle;
+   display: flex;
+   height: 60px;
+   width: 400px;
+   margin: auto;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+#pagina{
+    display: block;
+    height: 100%;
+}
+
+#primerPost{
+    background-color: white;
+    margin: auto;
+    margin-top: 20px !important;
+    margin-bottom: 40px !important;
+    height: 430px;
+    width: 450px;
+}
+
+.cabezaPost{
+    display: flex;
+    align-items: baseline;
+}
+.cabezaPost h4{
+    height: 15px;
+    width: 200px;
+    margin-left: 12px;
+    margin-top: 5px;
+    margin-bottom: 0%;
+    font-size: 15px;
+}
+.cabezaPost p{
+    font-size:small;
+    margin-left: 190px;
+    color: gray;
+}
+
+.imagenPost img{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+}
+
+.piePost p{
+    margin-left: 17px;
+    margin-top: 5px;
+    margin-right: 8px ;
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+
+#segundoPost{
+    background-color: white;
+    margin: auto;
+    margin-bottom: 40px !important ;
+    height: 440px;
+    width: 450px;
+}
+
+#tercerPost{
+    background-color: white;
+    margin: auto;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+    height: 400px;
+    width: 450px;
+}
+
+#cuartoPost{
+    background-color: white;
+    margin: auto;
+    margin-bottom: 50px !important;
+    height: 530px;
+    width: 450px;
+}
